@@ -1,0 +1,325 @@
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.OpForm.resources
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Downloads\Compressed\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+E:\Algo Project\Startup code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Downloads\Compressed\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Downloads\Final-IsA\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Interop.DexterLib.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecryptVedio.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4)\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Interop.DexterLib.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecryptVedio.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ZedGraph.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecryptVedio.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Interop.DexterLib.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ZedGraph.dll
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.xml
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Abdelrahman\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Interop.DexterLib.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ZedGraph.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\stdole.dll
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.xml
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecryptVedio.resources
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\JOE\Desktop\Final-IsA_1 - Copy (4) - Copy - Copy\Final IsA\TEMPLATE-ImageEncryptCompress_4\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Interop.DexterLib.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ZedGraph.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\stdole.dll
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Controls.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Fuzzy.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Genetic.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.MachineLearning.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Math.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Neuro.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.VFW.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\AForge.Vision.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.UI.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\Emgu.CV.World.xml
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.CompressAndDecompress.resources
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecryptVedio.resources
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.EncryptDecrypt.resources
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\JOE\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
